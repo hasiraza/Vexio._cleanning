@@ -1,0 +1,6 @@
+{
+  "name": "Vexio.ai",
+  "description": "Vexio.ai is a premium AI-powered data cleaning platform. Detect, fix, and transform messy datasets in seconds with Apple-level design polish, automated anomaly scans, and professional visual workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
